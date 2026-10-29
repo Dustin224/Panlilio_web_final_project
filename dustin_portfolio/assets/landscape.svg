@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" role="img" aria-label="Simple sky and green hills illustration">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bdeeff"/><stop offset="1" stop-color="#f8ffff"/></linearGradient>
+  </defs>
+  <rect width="400" height="520" fill="url(#sky)"/>
+  <path d="M0 330 Q80 310 155 345 T400 328 V520 H0Z" fill="#c8df70"/>
+  <path d="M0 375 Q95 320 190 365 T400 360 V520 H0Z" fill="#8eae00"/>
+  <path d="M0 420 Q130 385 235 415 T400 405 V520 H0Z" fill="#769600"/>
+  <g fill="#fff"><circle cx="190" cy="145" r="43"/><circle cx="155" cy="165" r="34"/><circle cx="225" cy="166" r="31"/><rect x="150" y="160" width="95" height="35" rx="17"/></g>
+</svg>
